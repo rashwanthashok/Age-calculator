@@ -16,7 +16,7 @@ Rashwanth - Age Calculator
 
 Live Demo:
 
-    https://codesoftg.github.io/TGCodes-Age-Calculator/
+     https://rashwanthashok.github.io/Age-calculator/
 
 
 ## Getting Started
