@@ -42,6 +42,9 @@ To explore or modify the code, follow these steps:
 
 3. Cross-Device Compatibility: The age calculator is compatible with different devices, including desktops, laptops, tablets, and mobile phones. Although it may not be fully responsive, it ensures functionality across a range of screen sizes and resolutions. Whether you're accessing the calculator from a large desktop monitor or a smaller mobile screen, you can still perform age calculations with ease. The layout and design adapt to different devices, providing a satisfactory user experience across platforms.
 
+## Deployment status
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/715cfa37-e03a-4cce-ac3d-71bcd82f7c83/deploy-status)](https://app.netlify.com/sites/jsprojects6-age-calculator/deploys)
 ## Contributing
 
 Contributions are always welcome!
